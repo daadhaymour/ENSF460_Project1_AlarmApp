@@ -1,7 +1,7 @@
 /*
  * File:   TimeDelay.h
  * Author: ENSF 460 B02 Group 33 
- *         Tanis Smith [30110039], Daad Haymour [30173064], Jabez Chowdhury [30122363]
+ *         Tanis Smith, Daad Haymour, Jabez Chowdhury
  * Created on: October 15, 2024
  */
 
